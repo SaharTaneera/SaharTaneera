@@ -1,6 +1,6 @@
 # Hi, I'm Sahar Taneera 👋
 
-M.Sc. Candidate in Computer Engineering  
+M.Sc. in Computer Engineering  
 AI Researcher focusing on Computer Vision & Machine Learning for Healthcare
 
 ---
