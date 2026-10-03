@@ -135,11 +135,10 @@ A Retrieval-Augmented Generation application designed to answer questions about 
 - Semantic similarity search
 - Context retrieval
 - LLM-based response generation
-- Streamlit user interface
 
 ### Tech
 
-`Python` `Sentence Transformers` `ChromaDB` `LLMs` `Streamlit`
+`Python` `Sentence Transformers` `ChromaDB` `LLMs` 
 
 ### Why I built it
 
